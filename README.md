@@ -75,7 +75,7 @@ This will produce a binary file named `program.abc`.
 ---
 
 
-## 👨‍💻 Author
+##  Author
 
 **Dimitris Papadopoulos**  
 University of Crete – Computer Science Department  
